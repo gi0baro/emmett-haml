@@ -2,8 +2,6 @@
 
 Emmett-Haml is an extension for the [Emmett framework](http://github.com/emmett-framework/emmett) providing an Haml like syntax for templates. This is not a template engine but a compiler which converts haml files to html Renoir templates.
 
-[![pip version](https://img.shields.io/pypi/v/emmett-haml.svg?style=flat)](https://pypi.python.org/pypi/Emmett-Haml) 
-
 ## Installation
 
 You can install Emmett-Haml using pip:
