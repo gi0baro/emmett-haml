@@ -5,8 +5,8 @@
 
     Provides the Haml extension for Emmett
 
-    :copyright: (c) 2017-2019 by Giovanni Barillari
-    :license: BSD, see LICENSE for more details.
+    :copyright: 2017 Giovanni Barillari
+    :license: BSD-3-Clause
 """
 
 import os

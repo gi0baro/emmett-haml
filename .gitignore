@@ -3,7 +3,9 @@ __pycache__
 
 *.sublime-*
 .venv
+.vscode
+poetry.lock
 
 build/*
 dist/*
-Emmett_Haml.egg-info/*
+Emmett_HAML.egg-info/*
