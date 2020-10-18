@@ -1,2 +1,2 @@
-emmett>1.0
+emmett==2.1.0
 renoir-haml==1.0.0

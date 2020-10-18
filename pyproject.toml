@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "Emmett-HAML"
-version = "1.0.0.dev0"
+version = "1.0.0"
 description = "HAML syntax for Emmett templates"
 authors = ["Giovanni Barillari <gi0baro@d4net.org>"]
 license = "BSD-3-Clause"
@@ -19,21 +19,19 @@ classifiers = [
     "Programming Language :: Python :: 3",
     "Programming Language :: Python :: 3.7",
     "Programming Language :: Python :: 3.8",
+    "Programming Language :: Python :: 3.9",
     "Topic :: Internet :: WWW/HTTP :: Dynamic Content",
     "Topic :: Software Development :: Libraries :: Python Modules",
     "Topic :: Text Processing :: Markup :: HTML"
 ]
 
-packages = [
-    {include = "emmett_haml"}
-]
 include = [
     "LICENSE"
 ]
 
 [tool.poetry.dependencies]
 python = "^3.7"
-emmett = {version = ">1.0", allow-prereleases = true}
+emmett = "^2"
 renoir-haml = "^1.0"
 
 [tool.poetry.dev-dependencies]

@@ -3,7 +3,7 @@
     emmett_haml.ext
     ---------------
 
-    Provides the Haml extension for Emmett
+    Provides the HAML extension for Emmett
 
     :copyright: 2017 Giovanni Barillari
     :license: BSD-3-Clause
